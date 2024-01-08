@@ -10,3 +10,5 @@ And I used Material UI for the tabs.
 react-router-dom,
 matertial ui
 
+Deployed url : https://lambent-dodol-84a558.netlify.app
+
